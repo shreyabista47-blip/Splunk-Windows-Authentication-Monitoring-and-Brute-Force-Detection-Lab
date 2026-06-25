@@ -223,11 +223,3 @@ index=* EventCode=4625
 
 ---
 
-## Resume Description
-
-**Splunk Windows Authentication Monitoring and Brute Force Detection Lab**
-
-- Deployed Splunk Enterprise and Universal Forwarder to collect Windows Security Event Logs.
-- Developed SPL detections for failed authentication attempts (Event ID 4625) and potential brute-force activity.
-- Built dashboards visualizing authentication trends, logon types, and successful versus failed logins.
-- Configured threshold-based alerts and investigated security events using Splunk Search Processing Language (SPL).
