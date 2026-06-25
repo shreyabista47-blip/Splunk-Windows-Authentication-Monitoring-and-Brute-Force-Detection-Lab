@@ -107,8 +107,7 @@ Add screenshots in a folder named:
 
 ```text
 screenshots/
-├── splunk_log_ingestion.png<img width="959" height="437" alt="stats-search" src="https://github.com/user-attachments/assets/084b5382-271c-4bef-9ca9-1ae7e7595b5c" />
-
+├── splunk_log_ingestion.png
 ├── failed_login_detection.png
 ├── failed_login_attempts_by_account.png
 ├── failed_login_attempts_over_time.png
